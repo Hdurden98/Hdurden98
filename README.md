@@ -1,6 +1,6 @@
 # Hi, I'm Hannah 👋
 
-🎓 Data Analytics Student  
+🎓 Computer & information System Student  
 📊 Interested in Business Intelligence & Data Visualization  
 
 ---
