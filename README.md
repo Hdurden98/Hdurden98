@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Hannah 👋
 
-<!--
-**Hdurden98/Hdurden98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics Student  
+📊 Interested in Business Intelligence & Data Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Tableau
+- SQL
+- Excel
+- Data Visualization
+- Data Cleaning
+
+---
+
+## Tools
+- Tableau
+- Excel
+- SQL
+- GitHub
+
+---
+
+## Tableau Portfolio
+https://public.tableau.com/app/profile/hannah.durden/vizzes
+
+---
+
+## Featured Projects
+- Sales Performance Dashboard
+- Customer Segmentation Analysis
+- Regional Revenue Trends
+
+---
+
+## Currently Learning
+- Advanced Tableau
+- SQL for Data Analysis
+- Python for Data Analytics
