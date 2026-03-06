@@ -27,11 +27,29 @@ https://public.tableau.com/app/profile/hannah.durden/vizzes
 
 ---
 
-## Featured Projects
-- Sales Performance Dashboard
-- Customer Segmentation Analysis
-- Regional Revenue Trends
+## 📊 Featured Projects
 
+### NYC Childcare Facilities Capacity Dashboard
+Built an interactive Tableau dashboard analyzing childcare facility distribution and capacity across New York City.  
+The dashboard highlights facility availability by borough and identifies areas with the highest childcare demand.
+
+Tools: Tableau, Data Visualization  
+
+---
+
+### Global Tuberculosis Burden Dashboard
+Developed a Tableau dashboard exploring global tuberculosis cases, mortality rates, and detection trends.  
+This project visualizes regional differences in TB burden and highlights countries with the highest incidence.
+
+Tools: Tableau, Data Analysis  
+
+---
+
+### Netflix Content Analysis Dashboard
+Created a data visualization dashboard analyzing Netflix content trends including top producing countries, ratings distribution, and content growth over time.  
+The dashboard provides insights into how Netflix's content library has expanded globally.
+
+Tools: Tableau, Data Visualization
 ---
 
 ## Currently Learning
